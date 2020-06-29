@@ -1,5 +1,5 @@
-============Korean ==============================
-# FiveM-EasyConnectM(V)
+
+# FiveM-EasyConnectM(V)(Korean)
 FiveM - 본 프로그램은 비쥬얼 스튜디오 C# 언어를 사용하여 간단하게 
 FiveM 서버에 접속할수 있게 만들어주는 프로그램 입니다.
 필요하시면 소스코드 까지 사용하시라고 C# 소스코드도 같이 첨부합니다.
@@ -9,8 +9,7 @@ FiveM 서버에 접속할수 있게 만들어주는 프로그램 입니다.
 # Discord 연락처 : Jandi#7129
 # 이메일 : hanseolse@naver.com
 
-==============EngLish=====================
-# FiveM-EasyConnectM(V)
+# FiveM-EasyConnectM(V)(English)
 
 FiveM - This program is simple using Visual Studio C# language
 It is a program that allows access to the FiveM server.
